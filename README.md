@@ -4,7 +4,7 @@
 
 项目编号：26003
 
-#### 系统录屏：https://www.bilibili.com/video/BV18p7j6VEDK
+#### 系统录屏：https://www.bilibili.com/video/BV18z7s6eEA9
 
 #### 启动教程/讲解视频/二次开发教程：https://www.bilibili.com/video/BV1uE3E6AEMh
 
